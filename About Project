@@ -1,0 +1,32 @@
+# 🍕 SQL Project: Pizza Sales Analysis
+
+Welcome to my first SQL project! 🎉
+
+This project focuses on performing **exploratory data analysis (EDA)** using SQL on a fictional pizza sales dataset. The aim is to uncover valuable business insights that can help stakeholders make informed decisions.
+
+## 📊 Project Objective
+
+To analyze pizza sales data and extract key insights such as:
+- Total revenue and order volume
+- Most popular pizza types and sizes
+- Revenue trends over time
+- Category-wise performance
+- Time-based order distribution
+
+## 🛠️ Tools & Skills Used
+
+- **SQL** (MySQL syntax)
+- **Joins, Aggregations, Grouping**
+- **Window Functions**
+- **Subqueries**
+- **Data Cleaning & Transformation**
+
+## 🧠 What You’ll Learn
+
+- How to structure and write real-world SQL queries
+- How to derive business insights from raw data
+- How to use window functions and advanced SQL logic
+
+---
+
+Feel free to explore the queries and insights in the SQL script! Let me know if you’d like a walkthrough or suggestions for expanding the project.
